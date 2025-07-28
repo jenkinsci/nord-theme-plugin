@@ -1,8 +1,10 @@
 # Nord Theme Plugin
 
-[![Build Status](https://ci.jenkins.io/job/Plugins/job/nord-theme-plugin/job/main/badge/icon)](https://ci.jenkins.io/job/Plugins/job/nord-theme-plugin/job/main/)
+[![Build Status](https://ci.jenkins.io/job/Plugins/job/nord-theme-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/nord-theme-plugin/job/master/)
 [![Gitter](https://badges.gitter.im/jenkinsci/ux-sig.svg)](https://gitter.im/jenkinsci/ux-sig?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Contributors](https://img.shields.io/github/contributors/jenkinsci/nord-theme-plugin.svg)](https://github.com/jenkinsci/nord-theme-plugin/graphs/contributors)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/nord-theme.svg)](https://plugins.jenkins.io/nord-theme)
+[![GitHub release](https://img.shields.io/github/release/jenkinsci/nord-theme-plugin.svg?label=changelog)](https://github.com/jenkinsci/nord-theme-plugin/releases/latest)
 [![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/nord-theme.svg?color=blue)](https://plugins.jenkins.io/nord-theme)
 
 ![preview.png](preview.png)
