@@ -22,7 +22,7 @@
 
   /* Text */
   --text-color: var(--nord6);
-  --text-color-secondary: color-mix(in oklch, color-mix(in srgb, var(--background) 40%, var(--text-color)), var(--accent-color) 25%);
+  --text-color-secondary: var(--nord4);
 
   /* Breadcrumbs - Deprecated */
   --breadcrumbs-bar-background: var(--background);
