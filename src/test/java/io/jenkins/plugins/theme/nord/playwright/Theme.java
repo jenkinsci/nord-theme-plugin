@@ -7,7 +7,7 @@ import io.jenkins.plugins.thememanager.ThemeManagerFactoryDescriptor;
 
 public record Theme(String name, String id, CssVariable variableToCheck) {
 
-    public static Theme NORD = new Theme(new NordTheme.DescriptorImpl(), background("white"));
+    public static Theme NORD = new Theme(new NordTheme.DescriptorImpl(), background("#2e3440"));
 
     public Theme {
         if (name == null || name.isEmpty()) {
