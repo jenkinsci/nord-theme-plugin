@@ -57,7 +57,6 @@
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>theme-manager</artifactId>
-      <version>313.v8657a_a_7692cb_</version>
     </dependency>
     <dependency>
       <groupId>com.microsoft.playwright</groupId>
